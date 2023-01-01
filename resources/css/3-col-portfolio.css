@@ -39,3 +39,15 @@ footer {
 	text-align: center;
 	
 }
+
+.col-md-6 {
+	width: 100%;
+}
+
+.row {
+	margin: 0px;
+}
+
+.logo {
+	width: 30px;
+}
